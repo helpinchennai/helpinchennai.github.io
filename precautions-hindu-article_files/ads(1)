@@ -1,0 +1,49 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = ""; 
+google_ad.url = "http://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CZUfl0A1mVvS0BYX8-QPm0o74CMH4t6wI0ficicAC2Jyd-fEBEAEgvYO_EygCYMnu64bIo6AZoAGCh8_8A8gBAagDAaoE4AFP0NeLqDShO0U2BWHdLHeaIM-0GXTQFi0Bd7sXmOP5p_mK1VRSAuESi0l0SEsr7PRlKUZ1p_HFhlLgsXhcq7NDB2a3RzTxngYSgJ5_ioVWpXlQlOCqaSWxPOvW5ZmKBUUCjL9CB2n9UR7yTtPm4I0v9AqTC3wwbEMRLq-I3_DqGWafmUjAGQn01hcz-u0lxo2xyDG8mPpl9TLNsyYSwxngYS70A_jKLZoFjJL2xtWRdfSyD2-BmqGlIKpErSPeO8yMpXZc5UNfmAGAcYJxXBmmijY6pqmwDW5IUt4uz08WOogGAYAHsf_fCKgHpr4b2AcB&amp;num=1&amp;cid=5Gh6HJ4oCepFjXwBhiC9cHNe&amp;sig=AOD64_38mum-_JWzNekV6prCj3t-dk1ndg&amp;client=ca-hindu_site_html&amp;adurl=http://www1.macys.com/shop/kids-clothes%3Fid%3D5991%26edge%3Dhybrid%26cm_mmc%3DGoogle_Kids_Content-_-Kids_Generic_Remarketing_Google_Kids%2BClothing-_-85665528081_-_-_mkwid_ckvBd8oOr%7Cdc_85665528081%257C-%257CkvBd8oOr"; 
+google_ad.visible_url = "macys.com/Kids-Clothing"; 
+google_ad.log_info = "BclFT0A1mVvS0BYX8-QPm0o74CADR-JyJwAIAABABOAHIAQHCEy8KEBCp54eASSIICAIQARgBIAAKDxiF29heIggIAxABGAEgABiCh8_8AxjzhLfbAw";
+google_ad.activeview_cid = "5Gh6HJ4oCepFjXwBhiC9cHNepo0";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_metadata = "ud=1&la=0&";
+google_ad.line1 = "Kids Clothing at Macy\x26#39;s"; 
+google_ad.line2 = "Shop Kids Clothing at Macy\x26#39;s."; 
+google_ad.line3 = "Extra 25% off at Friends \x26amp; Family!"; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_ad = {}; 
+google_ad.n = 2; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=C9zHX0A1mVvS0BYX8-QPm0o74CPWti_0H9eb_sb8CwJeWmEMQAiC9g78TKAJgye7rhsijoBmgAfOEt9sDyAEBqAMBqgTdAU_Q59SiNKI7RTYFYd0sd5ogz7QZdNAWLQF3uxeY4_mn-YrVVFIC4RKLSXRISyvs9GUpRnWn8cWGUuCxeFyrs0MHZrdHNPGeBhKAnn-KhValeVCU4KppJbE869blmYoFRQKMv0IHaf1RHvJO0-bgjS_0CpMLfDBsQxEur4jf8OoZZp-ZSMAZCfTWFzP67SXGjbHIMbyY-mX1Ms2zJhLDGeBhLvQD-MotmgWMkvbG3ZG9uha2F0FDTk6WNa9GuELWOhCgw1-h9lz89YNRdnJcLqWKATmmXLUNjkjH-YBRiAYBgAf1-sgkqAemvhvYBwHYEwo&amp;num=2&amp;cid=5Gh6HJ4oCepFjXwBhiC9cHNe&amp;sig=AOD64_083v2jHEgtKSf4AqNKULDi3f4jmQ&amp;client=ca-hindu_site_html&amp;adurl=http://www.dryfast.net/"; 
+google_ad.visible_url = "www.dryfast.net"; 
+google_ad.log_info = "BclFT0A1mVvS0BYX8-QPm0o74CADR-JyJwAIAABABOAHIAQHCEy8KEBCp54eASSIICAIQARgBIAAKDxiF29heIggIAxABGAEgABiCh8_8AxjzhLfbAw";
+google_ad.activeview_cid = "5Gh6HJ4oCepFjXwBhiC9cHNepo0";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_metadata = "ud=1&la=0&";
+google_ad.line1 = "Dryfast Water Damage 24h"; 
+google_ad.line2 = "No money up front Lic# 959870"; 
+google_ad.line3 = "Direct Insurance billing"; 
+google_ad.regionname = ""; 
+google_ads[1] = google_ad; 
+google_info.feedback_url = "https://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://www.thehindu.com/news/cities/chennai/precautions-to-take-while-reentering-homes-ravaged-by-the-floods/article7954899.ece%253Fcss%253Dprint%26gl%3DUS%26hl%3Den%26client%3Dca-hindu_site_html%26hideleadgen%3D1%26ai0%3DCZUfl0A1mVvS0BYX8-QPm0o74CMH4t6wI0ficicAC2Jyd-fEBEAEgvYO_EygCYMnu64bIo6AZoAGCh8_8A8gBAagDAaoE4AFP0NeLqDShO0U2BWHdLHeaIM-0GXTQFi0Bd7sXmOP5p_mK1VRSAuESi0l0SEsr7PRlKUZ1p_HFhlLgsXhcq7NDB2a3RzTxngYSgJ5_ioVWpXlQlOCqaSWxPOvW5ZmKBUUCjL9CB2n9UR7yTtPm4I0v9AqTC3wwbEMRLq-I3_DqGWafmUjAGQn01hcz-u0lxo2xyDG8mPpl9TLNsyYSwxngYS70A_jKLZoFjJL2xtWRdfSyD2-BmqGlIKpErSPeO8yMpXZc5UNfmAGAcYJxXBmmijY6pqmwDW5IUt4uz08WOogGAYAHsf_fCKgHpr4b2AcB%26ai1%3DC9zHX0A1mVvS0BYX8-QPm0o74CPWti_0H9eb_sb8CwJeWmEMQAiC9g78TKAJgye7rhsijoBmgAfOEt9sDyAEBqAMBqgTdAU_Q59SiNKI7RTYFYd0sd5ogz7QZdNAWLQF3uxeY4_mn-YrVVFIC4RKLSXRISyvs9GUpRnWn8cWGUuCxeFyrs0MHZrdHNPGeBhKAnn-KhValeVCU4KppJbE869blmYoFRQKMv0IHaf1RHvJO0-bgjS_0CpMLfDBsQxEur4jf8OoZZp-ZSMAZCfTWFzP67SXGjbHIMbyY-mX1Ms2zJhLDGeBhLvQD-MotmgWMkvbG3ZG9uha2F0FDTk6WNa9GuELWOhCgw1-h9lz89YNRdnJcLqWKATmmXLUNjkjH-YBRiAYBgAf1-sgkqAemvhvYBwHYEwo\x26usg\x3dAFQjCNEIWiOn1pWRGiCyFC6jgsmjOj_jmw";
+var google_attribution_text = "AdChoices";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}

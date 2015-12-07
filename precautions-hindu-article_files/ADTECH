@@ -1,0 +1,23 @@
+
+var pubId=32987;
+var siteId=72027;
+var kadId=278180;
+var kadwidth=300;
+var kadheight=250;
+var kadtype=1;
+var kadpageurl="http%3A%2F%2Fthehindu.com%2F";
+
+document.write("<scr"+"ipt type=\"text/javascript\" src=\"http://ads.pubmatic.com/AdServer/js/showad.js\">\n");
+document.write("</scr"+"ipt>\n");
+
+var adcount_3543127_1_=new Image();
+adcount_3543127_1_.src="http://adnet.affinity.com/adcount/3.0/5359/3543127/0/170/AdId=6877175;BnId=1;ct=3156704001;st=387689;adcid=1;itime=528848533;reqtype=5;;ku=3029690;key=appnexus%5Fbackfill;kvrit=1449528784754;kvreqseq=2;kvuniqimp=31a0808a72cd4b228d2d45cf10b1371d1207;kr18014=2029689;kvadvbackfill=appnexus%5Fbackfill;kp=282347";
+
+var _comscore = _comscore || []; 
+_comscore.push({ c1: "8", c2: "16789691" ,c3: "9999999999" }); 
+(function() { 
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+ s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+ el.parentNode.insertBefore(s, el); 
+})(); 
+ document.write('<img src="http://soundwave.bnmla.com/usersync?sspid=15&r=http://ums.adtechus.com/mapuser?providerid=1029;userid=$UID" width="1" height="1" style="display:none;">');

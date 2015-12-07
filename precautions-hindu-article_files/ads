@@ -1,0 +1,33 @@
+{
+
+var google_ads = new Array();
+var google_ad;
+var google_radlinks = new Array();
+var google_radlink;
+var google_info = new Object();
+google_ad = {}; 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=CS_iHzw1mVtXcKomk-APX17_4DMX3oP4HperdibkC7fjtiIUEEAEgvYO_E2DJ7uuGyKOgGaAB_dT60QPIAQGoAwGqBOEBT9DLNBKmisW_d91fbks7_ktugwJFVia5RABHL-_jR33xPfTuzInc7JBPXNhlDHAXRRn5mF7jaP6fGWaPr44oyI5QzvsF2rOtPpoXpg1L6aT0-XpLgety8Lhlw1FxOYo6-VrST34YKmwZFuBMVrSGL_4F_jdEXJFlCJi5XpCy9JTcmgS5WOiwThtlwgj0BRuRfJcQUYeENrjMWtbjrnepVaIwENL0a5jQEuRVXxZsMyv3zxeWmjx9MJUwEgeEEtHkX1kdij11-pIjg7H4nGMWdeMbiHKbnusX0WPEaVTslp6miAYBgAe9muQgqAemvhvYBwE&amp;num=1&amp;cid=5GiJuCP2o88pCy7g1ZkZPRMQ&amp;sig=AOD64_35iLWfqwzWOqhXx5KKGy_xS4B4sQ&amp;client=ca-hindu_site_html&amp;adurl=http://www.cisco.com/c/r/en/us/internet-of-everything-ioe/data-center/vision/index.html%3FPOSITION%3DGDN%26COUNTRY_SITE%3Dus%26CAMPAIGN%3DIA-06%2Bucs%26CREATIVE%3DDMP_-_UCS_GDN_-_Nonbrand_-_CXO-DMP_UCS_Server%26REFERRING_SITE%3Dwww.thehindu.com%26KEYWORD%3Dserver%26KWID%3D%5B*KeywordID*%5D*KEYCODE%3D000497633"; 
+google_ad.visible_url = "www.cisco.com/go/ucs"; 
+google_ad.log_info = "B1i2hzw1mVtXcKomk-APX17_4DACl6t2JuQIAABABOAHIAQHCEwYY_dT60QM";
+google_ad.activeview_cid = "5GiJuCP2o88pCy7g1ZkZPRMQRu8";
+google_ad.activeview_js_immediate_enabled = "true";
+google_ad.activeview_metadata = "la=0&";
+google_ad.line1 = "Cisco\x26#174; UCS Servers"; 
+google_ad.line2 = "Improve IT Productivity \x26amp; Reduce"; 
+google_ad.line3 = "Execution Time w/ Intel\x26#174; Xeon\x26#174;."; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_info.feedback_url = "https://www.google.com/url?ct\x3dabg\x26q\x3dhttps://www.google.com/adsense/support/bin/request.py%3Fcontact%3Dabg_afc%26url%3Dhttp://www.thehindu.com/news/cities/chennai/precautions-to-take-while-reentering-homes-ravaged-by-the-floods/article7954899.ece%253Fcss%253Dprint%26gl%3DUS%26hl%3Den%26client%3Dca-hindu_site_html%26hideleadgen%3D1%26ai0%3DCS_iHzw1mVtXcKomk-APX17_4DMX3oP4HperdibkC7fjtiIUEEAEgvYO_E2DJ7uuGyKOgGaAB_dT60QPIAQGoAwGqBOEBT9DLNBKmisW_d91fbks7_ktugwJFVia5RABHL-_jR33xPfTuzInc7JBPXNhlDHAXRRn5mF7jaP6fGWaPr44oyI5QzvsF2rOtPpoXpg1L6aT0-XpLgety8Lhlw1FxOYo6-VrST34YKmwZFuBMVrSGL_4F_jdEXJFlCJi5XpCy9JTcmgS5WOiwThtlwgj0BRuRfJcQUYeENrjMWtbjrnepVaIwENL0a5jQEuRVXxZsMyv3zxeWmjx9MJUwEgeEEtHkX1kdij11-pIjg7H4nGMWdeMbiHKbnusX0WPEaVTslp6miAYBgAe9muQgqAemvhvYBwE\x26usg\x3dAFQjCNGYDFM-gZWW82Zs8tRzO1mFwfF93A";
+var google_attribution_text = "AdChoices";
+var google_is_rtl = false;
+if (window.google_ad_request_done) {
+google_ad_request_done(google_ads);
+}
+if (window.google_radlink_request_done) {
+google_radlink_request_done(google_radlinks);
+}
+}
